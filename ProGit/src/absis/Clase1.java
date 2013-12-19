@@ -7,4 +7,5 @@ public class Clase1 {
 	//Línea3 (Después de merge b5 y b6)
 	//Línea4
 	//Línea5 (Después de V-1.4)
+	//Línea6
 }
