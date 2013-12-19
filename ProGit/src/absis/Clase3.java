@@ -8,4 +8,5 @@ public class Clase3 {
 	//Línea3
 	//Línea4
 	//Línea5
+	//Línea6 (Edito esta línea y haré un merge con el master que está en la versión 1.5)
 }
