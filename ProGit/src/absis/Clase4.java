@@ -6,5 +6,6 @@ public class Clase4 {
 	//Línea2
 	//Línea3
 	//Línea4 (A partir de la V-1.4 edit en b7)
+	//Línea5 (Después de un merge al master, sigo haciendo commit en la branch para volver a hacer commit)
 
 }
