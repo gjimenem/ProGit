@@ -7,4 +7,5 @@ public class Clase5 {
 	// al master. Intuyo que en el history quedará una línea larga tal y como b6.)
 	
 	//Línea2 de b10
+	//Línea3
 }
