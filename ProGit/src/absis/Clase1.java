@@ -1,22 +1,23 @@
 package absis;
 
 public class Clase1 {
-	//Línea1
-	//Línea2
+	//Lï¿½nea1
+	//Lï¿½nea2
 	//LA CLASE 1 a partir de ahora evoluciona desde MASTER
-	//Línea3 (Después de merge b5 y b6)
-	//Línea4
-	//Línea5 (Después de V-1.4)
-	//Línea6
-	//Línea7
-	//Línea8 (Después de V-1.5)
-	//Línea9 (Despues de merge b5)
-	//Línea10 (Después de V-1.6)
-	//Línea11 
-	//Línea12
-	//Línea13
-	//Línea14 (Después de V-1.7)
-	//Línea15
-	//Línea16
-	//Línea17
+	//Lï¿½nea3 (Despuï¿½s de merge b5 y b6)
+	//Lï¿½nea4
+	//Lï¿½nea5 (Despuï¿½s de V-1.4)
+	//Lï¿½nea6
+	//Lï¿½nea7
+	//Lï¿½nea8 (Despuï¿½s de V-1.5)
+	//Lï¿½nea9 (Despues de merge b5)
+	//Lï¿½nea10 (Despuï¿½s de V-1.6)
+	//Lï¿½nea11 
+	//Lï¿½nea12
+	//Lï¿½nea13
+	//Lï¿½nea14 (Despuï¿½s de V-1.7)
+	//Lï¿½nea15
+	//Lï¿½nea16
+	//Lï¿½nea17
+	//LÃ­nea18 (guillegithub user)
 }
